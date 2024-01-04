@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://www.icegif.com/wp-content/uploads/2023/05/icegif-567.gif"  />
+  <img height="150" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Lw2qLPol--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wrfyd6sxf6b9p609arjq.gif"  />
 </div>
 
 ###
