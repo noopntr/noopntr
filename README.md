@@ -26,7 +26,7 @@
 
 ###
 
-<h3 align="center">🛠 Language and tools</h3>
+[comment]: <> (<h3 align="center">🛠 Language and tools</h3>)
 
 ###
 
