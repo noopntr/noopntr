@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="center">👋 </>👋 Hello, World! I'm Nodo, a passionate Software Developer crafting elegant solutions and building the future,<br /></>one line of code at a time.</h3>
+<h3 align="center">👋 </>Hello, World! I'm Nodo, a passionate Software Developer <br />crafting elegant solutions and building the future,<br /></>one line of code at a time.</h3>
 
 ###
 
