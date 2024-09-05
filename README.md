@@ -23,7 +23,7 @@
 ###
 
 <h3 align="center">
-  👋 </>Hello, World! I'm Nodo, a passionate Web Developer 
+  👋 </>Hello, World! I'm Nodo, Web Developer 
   <br /><br />
   👷 </>crafting elegant solutions and building the future,
   <br /><br />
