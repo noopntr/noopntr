@@ -44,6 +44,10 @@
   <a href=https://nextjs.org/ >
     <img src=./icons/next.svg alt=astro width=26 height=26 />
   </a>
+</div>
+<!-- Tech Stack Icons (Row 2) -->
+<div align=center >
+  <img height=32 width=0 />
   &hairsp;
   <a href=https://www.mongodb.com/ >
     <img src=./icons/mongo.svg alt=quasar width=26 height=26 />
@@ -63,33 +67,6 @@
   &hairsp;
   <a href=https://expressjs.com >
     <img src=./icons/express.svg alt=vuetify width=26 height=26 />
-  </a>
-</div>
-<!-- Tech Stack Icons (Row 2) -->
-<div align=center >
-  <img height=32 width=0 />
-  <a href=https://linux.org >
-    <img src=./icons/linux.svg alt=linux width=22 height=22 />
-  </a>
-  &hairsp;
-  <a href=https://www.figma.com >
-    <img src=./icons/figma.svg alt=figma width=22 height=22 />
-  </a>
-  &hairsp;
-  <a href=https://www.gnu.org/software/emacs/ >
-    <img src=./icons/gnuemacs.svg alt=emacs width=22 height=22 />
-  </a>
-  &hairsp;
-  <a href=https://ubuntu.com >
-    <img src=./icons/ubuntu.svg alt=ubuntu width=22 height=22 />
-  </a>
-  &hairsp;
-  <a href=https://svelte.dev >
-    <img src=./icons/svelte.svg alt=svelte width=22 height=22 />
-  </a>
-  &hairsp;
-  <a href=https://flutter.dev >
-    <img src=./icons/flutter.svg alt=flutter width=22 height=22 />
   </a>
 </div>
 
