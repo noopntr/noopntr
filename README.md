@@ -11,67 +11,60 @@
 <!-- ![#CB6040] -->
 
 <br/>
-<!-- <div align=center >
-  ____________
-</div> -->
 
 <!-- Tech Stack Icons (Row 1) -->
 <div align="center">
-  <!-- precisely control vertical spacing inside markdown without <br /> or <p></p> -->
   <img height=32 width=0 />
-  <a href=https://www.typescriptlang.org >
-    <img src=https://github.com/noopntr/noopntr/blob/development/icons/ts.svg alt=typescript width=26 height=26 />
+  <a href=https://www.typescriptlang.org>
+    <img src=https://raw.githubusercontent.com/noopntr/noopntr/development/icons/ts.svg alt=typescript width=26 height=26 />
   </a>
   &hairsp;
-  <a href=https://react.dev >
-    <img src=https://github.com/noopntr/noopntr/blob/development/icons/react.svg alt=react width=26 height=26 />
+  <a href=https://react.dev>
+    <img src=https://raw.githubusercontent.com/noopntr/noopntr/development/icons/react.svg alt=react width=26 height=26 />
   </a>
   &hairsp;
-  <a href=https://tailwindcss.com >
-    <img src=https://github.com/noopntr/noopntr/blob/development/icons/tailwindcss.svg alt=tailwind width=26 height=26 />
+  <a href=https://tailwindcss.com>
+    <img src=https://raw.githubusercontent.com/noopntr/noopntr/development/icons/tailwindcss.svg alt=tailwind width=26 height=26 />
   </a>
   &hairsp;
-  <a href= https://nuxt.com >
-    <img src=https://github.com/noopntr/noopntr/blob/development/icons/nuxt.svg alt=nuxt width=26 height=26 />
+  <a href=https://nuxt.com>
+    <img src=https://raw.githubusercontent.com/noopntr/noopntr/development/icons/nuxt.svg alt=nuxt width=26 height=26 />
   </a>
   &hairsp;
-  <a href=https://nextjs.org >
-    <img src=https://github.com/noopntr/noopntr/blob/development/icons/next.svg alt=next width=26 height=26 />
-  </a>
-</div>
-<!-- Tech Stack Icons (Row 2) -->
-<div align=center >
-  <img height=32 width=0 />
-  &hairsp;
-  <a href=https://www.mongodb.com >
-    <img src=https://github.com/noopntr/noopntr/blob/development/icons/mongo.svg alt=mongo width=26 height=26 />
-  </a>
-  &hairsp;
-  <a href=https://sass-lang.com >
-    <img src=https://github.com/noopntr/noopntr/blob/development/icons/scss.svg alt=scss width=26 height=26 />
-  </a>
-  &hairsp;
-  <a href=https://www.javascript.com >
-    <img src=https://github.com/noopntr/noopntr/blob/development/icons/js.svg alt=javascript width=26 height=26 />
-  </a>
-  &hairsp;
-  <a href=https://angular.dev >
-    <img src=https://github.com/noopntr/noopntr/blob/development/icons/angular.svg alt=angular width=26 height=26 />
-  </a>
-  &hairsp;
-  <a href=https://expressjs.com >
-    <img src=https://github.com/noopntr/noopntr/blob/development/icons/express.svg alt=express width=26 height=26 />
+  <a href=https://nextjs.org>
+    <img src=https://raw.githubusercontent.com/noopntr/noopntr/development/icons/next.svg alt=next width=26 height=26 />
   </a>
 </div>
 
-<!-- <div align=center >
-  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-</div> -->
+<!-- Tech Stack Icons (Row 2) -->
+<div align=center>
+  <img height=32 width=0 />
+  &hairsp;
+  <a href=https://www.mongodb.com>
+    <img src=https://raw.githubusercontent.com/noopntr/noopntr/development/icons/mongo.svg alt=mongo width=26 height=26 />
+  </a>
+  &hairsp;
+  <a href=https://sass-lang.com>
+    <img src=https://raw.githubusercontent.com/noopntr/noopntr/development/icons/scss.svg alt=scss width=26 height=26 />
+  </a>
+  &hairsp;
+  <a href=https://www.javascript.com>
+    <img src=https://raw.githubusercontent.com/noopntr/noopntr/development/icons/js.svg alt=javascript width=26 height=26 />
+  </a>
+  &hairsp;
+  <a href=https://angular.dev>
+    <img src=https://raw.githubusercontent.com/noopntr/noopntr/development/icons/angular.svg alt=angular width=26 height=26 />
+  </a>
+  &hairsp;
+  <a href=https://expressjs.com>
+    <img src=https://raw.githubusercontent.com/noopntr/noopntr/development/icons/express.svg alt=express width=26 height=26 />
+  </a>
+</div>
 
 <!-- Socials -->
 <div align=right>
   <a href=https://www.linkedin.com/in/nodo-kobakhidze>
-    <img height=24 width=24 src=https://github.com/noopntr/noopntr/blob/development/icons/linkedin.svg />
+    <img height=24 width=24 src=https://raw.githubusercontent.com/noopntr/noopntr/development/icons/linkedin.svg />
   </a>
 </div>
 
@@ -80,9 +73,6 @@
 <div align=right>
   <img width=80 src=https://data.whicdn.com/images/346072768/original.gif />
   <br/>
-  <!-- Visitor Telemetry -->
-  <!-- <img src="https://komarev.com/ghpvc/?username=noopntr" /> -->
   <img src="https://visitor-badge.laobi.icu/badge?page_id=noopntr.noopntr&"  />
   <br/>
-  
 </div>
