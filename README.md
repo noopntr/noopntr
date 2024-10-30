@@ -4,18 +4,12 @@
 
 ###
 
-<!-- Color Palette (Deadlinks) -->
-<!-- ![#f88469](https://via.placeholder.com/16/f88469/000000?text=+) -->
-<!-- ![#ffc89b](https://via.placeholder.com/16/ffc89b/000000?text=+) -->
-<!-- ![#4a9e90](https://via.placeholder.com/16/4a9e90/000000?text=+) -->
-<!-- ![#7cd6af](https://via.placeholder.com/16/7cd6af/000000?text=+) -->
+<!-- Color Palette -->
+<!-- ![#257180] -->
+<!-- ![#F2E5BF] -->
+<!-- ![#FD8B51] -->
+<!-- ![#CB6040] -->
 
-<!-- GitHub Streak (Deadlinks) -->
-<!-- <div align=center >
-  <a href=http://github-readme-streak-stats.herokuapp.com/demo >
-    <img width=300 height=118 src="https://github-readme-streak-stats.herokuapp.com/?user=picklenik&background=0000&border=0000&stroke=aaa&ring=ffc89b&fire=f88469&currStreakLabel=f88469&currStreakNum=4a9e90&sideLabels=f88469&sideNums=4a9e90&dates=aaa" />
-  </a>
-</div> -->
 <br/>
 <!-- <div align=center >
   ____________
@@ -50,7 +44,7 @@
   <img height=32 width=0 />
   &hairsp;
   <a href=https://www.mongodb.com/ >
-    <img src="./icons/mongo.svg" alt=quasar width=26 height=26 />
+    <img src=./icons/mongo.svg alt=quasar width=26 height=26 />
   </a>
   &hairsp;
   <a href=https://sass-lang.com/ >
