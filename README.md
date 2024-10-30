@@ -50,7 +50,7 @@
   <img height=32 width=0 />
   &hairsp;
   <a href=https://www.mongodb.com/ >
-    <img src=./icons/mongo.svg alt=quasar width=26 height=26 />
+    <img src="./icons/mongo.svg" alt=quasar width=26 height=26 />
   </a>
   &hairsp;
   <a href=https://sass-lang.com/ >
