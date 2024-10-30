@@ -4,34 +4,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/nodo-kobakhidze/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=noopntr.noopntr&"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="150" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Lw2qLPol--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wrfyd6sxf6b9p609arjq.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/nodo-kobakhidze/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
 <!-- Color Palette (Deadlinks) -->
 <!-- ![#f88469](https://via.placeholder.com/16/f88469/000000?text=+) -->
 <!-- ![#ffc89b](https://via.placeholder.com/16/ffc89b/000000?text=+) -->
@@ -159,7 +131,8 @@
   <img width=80 src=https://data.whicdn.com/images/346072768/original.gif />
   <br/>
   <!-- Visitor Telemetry -->
-  <img src="https://komarev.com/ghpvc/?username=noopntr" />
+  <!-- <img src="https://komarev.com/ghpvc/?username=noopntr" /> -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=noopntr.noopntr&"  />
   <br/>
   
 </div>
