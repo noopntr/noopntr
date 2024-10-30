@@ -70,15 +70,15 @@
 
 <!-- Socials -->
 <div align=right>
-  <a href=https://www.linkedin.com/in/nodo-kobakhidze>
-    <img height=24 width=24 src="./icons/linkedin.svg" />
+  <a href="https://www.linkedin.com/in/nodo-kobakhidze">
+    <img height="24" width="24" src="./icons/linkedin.svg" />
   </a>
 </div>
 
 <br />
 <br />
-<div align=right>
-  <img width=80 src=https://data.whicdn.com/images/346072768/original.gif />
+<div align="right">
+  <img width="80" src="https://data.whicdn.com/images/346072768/original.gif" />
   <br/>
   <!-- Visitor Telemetry -->
   <!-- <img src="https://komarev.com/ghpvc/?username=noopntr" /> -->
