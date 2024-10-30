@@ -4,64 +4,106 @@
 
 ###
 
+<!-- Color Palette -->
+<!-- ![#257180] -->
+<!-- ![#F2E5BF] -->
+<!-- ![#FD8B51] -->
+<!-- ![#CB6040] -->
+
+<br/>
+<!-- <div align=center >
+  ____________
+</div> -->
+
+<!-- Tech Stack Icons (Row 1) -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/nodo-kobakhidze/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <!-- precisely control vertical spacing inside markdown without <br /> or <p></p> -->
+  <img height=32 width=0 />
+  <a href=https://www.typescriptlang.org >
+    <img src=./icons/ts.svg alt=typescript width=26 height=26 />
+  </a>
+  &hairsp;
+  <a href=https://react.dev >
+    <img src=./icons/react.svg alt=react width=26 height=26 />
+  </a>
+  &hairsp;
+  <a href=https://tailwindcss.com >
+    <img src=./icons/tailwindcss.svg alt=tailwind width=26 height=26 />
+  </a>
+  &hairsp;
+  <a href= https://nuxt.com >
+    <img src=./icons/nuxt.svg alt=nuxt width=26 height=26 />
+  </a>
+  &hairsp;
+  <a href=https://nextjs.org >
+    <img src=./icons/next.svg alt=next width=26 height=26 />
+  </a>
+</div>
+<!-- Tech Stack Icons (Row 2) -->
+<div align=center >
+  <img height=32 width=0 />
+  &hairsp;
+  <a href=https://www.mongodb.com >
+    <img src=./icons/mongo.svg alt=mongo width=26 height=26 />
+  </a>
+  &hairsp;
+  <a href=https://sass-lang.com >
+    <img src=./icons/scss.svg alt=scss width=26 height=26 />
+  </a>
+  &hairsp;
+  <a href=https://www.javascript.com >
+    <img src=./icons/js.svg alt=javascript width=26 height=26 />
+  </a>
+  &hairsp;
+  <a href=https://angular.dev >
+    <img src=./icons/angular.svg alt=angular width=26 height=26 />
+  </a>
+  &hairsp;
+  <a href=https://expressjs.com >
+    <img src=./icons/express.svg alt=express width=26 height=26 />
   </a>
 </div>
 
-###
+<!-- <div align=center >
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+</div> -->
 
-<div align="center">
+<!-- Socials -->
+<div align=right>
+  <a href=https://www.linkedin.com/in/nodo-kobakhidze>
+    <img height=24 width=24 src=./icons/linkedin.svg />
+  </a>
+  <!--  &nbsp;&nbsp;
+ <a href=https://twitter.com/x>
+    <img height=24 width=24 src=./links/twitter.svg />
+  </a>
+  &nbsp;&nbsp;
+  <a href=https://www.youtube.com/@x>
+    <img height=24 width=24 src=./icons/youtube.svg />
+  </a>
+  &nbsp;&nbsp;
+  <a href=https://dev.to/x>
+    <img height=24 width=24 src=./links/devdotto.svg />
+  </a>
+  &nbsp;&nbsp;
+  <a href=https://medium.com/@x>
+    <img height=24 width=24 src=./links/medium.svg />
+  </a>
+  &nbsp;&nbsp;
+  <a href=https://dribbble.com/x>
+    <img height=24 width=24 src=./icons/dribbble.svg />
+  </a>
+  &emsp; -->
+</div>
+
+<br />
+<br />
+<div align=right>
+  <img width=80 src=https://data.whicdn.com/images/346072768/original.gif />
+  <br/>
+  <!-- Visitor Telemetry -->
+  <!-- <img src="https://komarev.com/ghpvc/?username=noopntr" /> -->
   <img src="https://visitor-badge.laobi.icu/badge?page_id=noopntr.noopntr&"  />
+  <br/>
+  
 </div>
-
-###
-
-<h1 align="center"></h1>
-
-###
-
-<h3 align="center">
-  👋 </>Hello, World! I'm Nodo, Web Developer 
-  <br /><br />
-  👷 </>crafting elegant solutions and building the future,
-  <br /><br />
-  🪄 </>one line of code at a time.
-</h3>
-
-###
-
-[comment]: <> (<h3 align="center">🛠 Language and tools</h3>)
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="angular logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-</div>
-
-###
