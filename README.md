@@ -71,7 +71,7 @@
 <!-- Socials -->
 <div align=right>
   <a href=https://www.linkedin.com/in/nodo-kobakhidze>
-    <img height=24 width=24 src=./icons/linkedin.svg />
+    <img height=24 width=24 src="./icons/linkedin.svg" />
   </a>
 </div>
 
