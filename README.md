@@ -60,7 +60,7 @@
   </a>
   &hairsp;
   <a href=https://expressjs.com >
-    <img src=./icons/express.svg alt=express width=26 height=26 />
+    <img src="./icons/express.svg" alt="express" width="26" height="26" />
   </a>
 </div>
 
@@ -69,7 +69,7 @@
 </div> -->
 
 <!-- Socials -->
-<div align=right>
+<div align="right">
   <a href="https://www.linkedin.com/in/nodo-kobakhidze">
     <img height="24" width="24" src="./icons/linkedin.svg" />
   </a>
