@@ -20,7 +20,7 @@
   <!-- precisely control vertical spacing inside markdown without <br /> or <p></p> -->
   <img height=32 width=0 />
   <a href=https://www.typescriptlang.org >
-    <img src=./icons/ts.svg alt=typescript width=26 height=26 />
+    <img src="./icons/ts.svg" alt=typescript width=26 height=26 />
   </a>
   &hairsp;
   <a href=https://react.dev >
@@ -73,28 +73,8 @@
   <a href=https://www.linkedin.com/in/nodo-kobakhidze>
     <img height=24 width=24 src=./icons/linkedin.svg />
   </a>
-  <!--  &nbsp;&nbsp;
- <a href=https://twitter.com/x>
-    <img height=24 width=24 src=./links/twitter.svg />
-  </a>
-  &nbsp;&nbsp;
-  <a href=https://www.youtube.com/@x>
-    <img height=24 width=24 src=./icons/youtube.svg />
-  </a>
-  &nbsp;&nbsp;
-  <a href=https://dev.to/x>
-    <img height=24 width=24 src=./links/devdotto.svg />
-  </a>
-  &nbsp;&nbsp;
-  <a href=https://medium.com/@x>
-    <img height=24 width=24 src=./links/medium.svg />
-  </a>
-  &nbsp;&nbsp;
-  <a href=https://dribbble.com/x>
-    <img height=24 width=24 src=./icons/dribbble.svg />
-  </a>
-  &emsp; -->
 </div>
+  &emsp; -->
 
 <br />
 <br />
