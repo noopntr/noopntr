@@ -20,23 +20,23 @@
   <!-- precisely control vertical spacing inside markdown without <br /> or <p></p> -->
   <img height=32 width=0 />
   <a href=https://www.typescriptlang.org >
-    <img src="./icons/ts.svg" alt=typescript width=26 height=26 />
+    <img src=https://github.com/noopntr/noopntr/blob/development/icons/ts.svg alt=typescript width=26 height=26 />
   </a>
   &hairsp;
   <a href=https://react.dev >
-    <img src=./icons/react.svg alt=react width=26 height=26 />
+    <img src=https://github.com/noopntr/noopntr/blob/development/icons/react.svg alt=react width=26 height=26 />
   </a>
   &hairsp;
   <a href=https://tailwindcss.com >
-    <img src=./icons/tailwindcss.svg alt=tailwind width=26 height=26 />
+    <img src=https://github.com/noopntr/noopntr/blob/development/icons/tailwindcss.svg alt=tailwind width=26 height=26 />
   </a>
   &hairsp;
   <a href= https://nuxt.com >
-    <img src=./icons/nuxt.svg alt=nuxt width=26 height=26 />
+    <img src=https://github.com/noopntr/noopntr/blob/development/icons/nuxt.svg alt=nuxt width=26 height=26 />
   </a>
   &hairsp;
   <a href=https://nextjs.org >
-    <img src=./icons/next.svg alt=next width=26 height=26 />
+    <img src=https://github.com/noopntr/noopntr/blob/development/icons/next.svg alt=next width=26 height=26 />
   </a>
 </div>
 <!-- Tech Stack Icons (Row 2) -->
@@ -44,23 +44,23 @@
   <img height=32 width=0 />
   &hairsp;
   <a href=https://www.mongodb.com >
-    <img src=./icons/mongo.svg alt=mongo width=26 height=26 />
+    <img src=https://github.com/noopntr/noopntr/blob/development/icons/mongo.svg alt=mongo width=26 height=26 />
   </a>
   &hairsp;
   <a href=https://sass-lang.com >
-    <img src=./icons/scss.svg alt=scss width=26 height=26 />
+    <img src=https://github.com/noopntr/noopntr/blob/development/icons/scss.svg alt=scss width=26 height=26 />
   </a>
   &hairsp;
   <a href=https://www.javascript.com >
-    <img src=./icons/js.svg alt=javascript width=26 height=26 />
+    <img src=https://github.com/noopntr/noopntr/blob/development/icons/js.svg alt=javascript width=26 height=26 />
   </a>
   &hairsp;
   <a href=https://angular.dev >
-    <img src=./icons/angular.svg alt=angular width=26 height=26 />
+    <img src=https://github.com/noopntr/noopntr/blob/development/icons/angular.svg alt=angular width=26 height=26 />
   </a>
   &hairsp;
-  <a href="https://expressjs.com" >
-    <img src="./icons/express.svg" alt="express" width="26" height="26" />
+  <a href=https://expressjs.com >
+    <img src=https://github.com/noopntr/noopntr/blob/development/icons/express.svg alt=express width=26 height=26 />
   </a>
 </div>
 
@@ -69,16 +69,16 @@
 </div> -->
 
 <!-- Socials -->
-<div align="right">
-  <a href="https://www.linkedin.com/in/nodo-kobakhidze">
-    <img height="24" width="24" src="./icons/linkedin.svg" />
+<div align=right>
+  <a href=https://www.linkedin.com/in/nodo-kobakhidze>
+    <img height=24 width=24 src=https://github.com/noopntr/noopntr/blob/development/icons/linkedin.svg />
   </a>
 </div>
 
 <br />
 <br />
-<div align="right">
-  <img width="80" src="https://data.whicdn.com/images/346072768/original.gif" />
+<div align=right>
+  <img width=80 src=https://data.whicdn.com/images/346072768/original.gif />
   <br/>
   <!-- Visitor Telemetry -->
   <!-- <img src="https://komarev.com/ghpvc/?username=noopntr" /> -->
