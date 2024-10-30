@@ -74,7 +74,6 @@
     <img height=24 width=24 src=./icons/linkedin.svg />
   </a>
 </div>
-  &emsp; -->
 
 <br />
 <br />
