@@ -19,11 +19,11 @@
 <div align="center">
   <!-- precisely control vertical spacing inside markdown without <br /> or <p></p> -->
   <img height=32 width=0 />
-  <a href=https://www.typescriptlang.org/ >
+  <a href=https://www.typescriptlang.org >
     <img src=./icons/ts.svg alt=typescript width=26 height=26 />
   </a>
   &hairsp;
-  <a href=https://react.dev/ >
+  <a href=https://react.dev >
     <img src=./icons/react.svg alt=react width=26 height=26 />
   </a>
   &hairsp;
@@ -31,11 +31,11 @@
     <img src=./icons/tailwindcss.svg alt=tailwind width=26 height=26 />
   </a>
   &hairsp;
-  <a href= https://nuxt.com/ >
+  <a href= https://nuxt.com >
     <img src=./icons/nuxt.svg alt=nuxt width=26 height=26 />
   </a>
   &hairsp;
-  <a href=https://nextjs.org/ >
+  <a href=https://nextjs.org >
     <img src=./icons/next.svg alt=next width=26 height=26 />
   </a>
 </div>
@@ -43,19 +43,19 @@
 <div align=center >
   <img height=32 width=0 />
   &hairsp;
-  <a href=https://www.mongodb.com/ >
+  <a href=https://www.mongodb.com >
     <img src=./icons/mongo.svg alt=mongo width=26 height=26 />
   </a>
   &hairsp;
-  <a href=https://sass-lang.com/ >
+  <a href=https://sass-lang.com >
     <img src=./icons/scss.svg alt=scss width=26 height=26 />
   </a>
   &hairsp;
-  <a href=https://www.javascript.com/ >
+  <a href=https://www.javascript.com >
     <img src=./icons/js.svg alt=javascript width=26 height=26 />
   </a>
   &hairsp;
-  <a href=https://angular.dev/ >
+  <a href=https://angular.dev >
     <img src=./icons/angular.svg alt=angular width=26 height=26 />
   </a>
   &hairsp;
@@ -71,7 +71,7 @@
 <!-- Socials -->
 <div align=right>
   <a href=https://www.linkedin.com/in/nodo-kobakhidze>
-    <img height=24 width=24 src=./links/linkedin.svg />
+    <img height=24 width=24 src=./icons/linkedin.svg />
   </a>
   <!--  &nbsp;&nbsp;
  <a href=https://twitter.com/x>
