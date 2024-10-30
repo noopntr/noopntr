@@ -19,12 +19,12 @@
 <div align="center">
   <!-- precisely control vertical spacing inside markdown without <br /> or <p></p> -->
   <img height=32 width=0 />
-  <!-- <a href=https://www.typescriptlang.org/ > -->
-    <img src=./icons/ts.svg alt=vuejs width=26 height=26 />
-  <!-- </a> -->
+  <a href=https://www.typescriptlang.org/ >
+    <img src=./icons/ts.svg alt=typescript width=26 height=26 />
+  </a>
   &hairsp;
   <a href=https://react.dev/ >
-    <img src=./icons/react.svg alt=nuxtjs width=26 height=26 />
+    <img src=./icons/react.svg alt=react width=26 height=26 />
   </a>
   &hairsp;
   <a href=https://tailwindcss.com >
@@ -32,11 +32,11 @@
   </a>
   &hairsp;
   <a href= https://nuxt.com/ >
-    <img src=./icons/nuxt.svg alt=firebase width=26 height=26 />
+    <img src=./icons/nuxt.svg alt=nuxt width=26 height=26 />
   </a>
   &hairsp;
   <a href=https://nextjs.org/ >
-    <img src=./icons/next.svg alt=astro width=26 height=26 />
+    <img src=./icons/next.svg alt=next width=26 height=26 />
   </a>
 </div>
 <!-- Tech Stack Icons (Row 2) -->
@@ -44,23 +44,23 @@
   <img height=32 width=0 />
   &hairsp;
   <a href=https://www.mongodb.com/ >
-    <img src=./icons/mongo.svg alt=quasar width=26 height=26 />
+    <img src=./icons/mongo.svg alt=mongo width=26 height=26 />
   </a>
   &hairsp;
   <a href=https://sass-lang.com/ >
-    <img src=./icons/scss.svg alt=vuetify width=26 height=26 />
+    <img src=./icons/scss.svg alt=scss width=26 height=26 />
   </a>
   &hairsp;
   <a href=https://www.javascript.com/ >
-    <img src=./icons/js.svg alt=vuetify width=26 height=26 />
+    <img src=./icons/js.svg alt=javascript width=26 height=26 />
   </a>
   &hairsp;
   <a href=https://angular.dev/ >
-    <img src=./icons/angular.svg alt=vuetify width=26 height=26 />
+    <img src=./icons/angular.svg alt=angular width=26 height=26 />
   </a>
   &hairsp;
   <a href=https://expressjs.com >
-    <img src=./icons/express.svg alt=vuetify width=26 height=26 />
+    <img src=./icons/express.svg alt=express width=26 height=26 />
   </a>
 </div>
 
