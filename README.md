@@ -19,9 +19,9 @@
 <div align="center">
   <!-- precisely control vertical spacing inside markdown without <br /> or <p></p> -->
   <img height=32 width=0 />
-  <a href=https://www.typescriptlang.org/ >
+  <!-- <a href=https://www.typescriptlang.org/ > -->
     <img src=./icons/ts.svg alt=vuejs width=26 height=26 />
-  </a>
+  <!-- </a> -->
   &hairsp;
   <a href=https://react.dev/ >
     <img src=./icons/react.svg alt=nuxtjs width=26 height=26 />
