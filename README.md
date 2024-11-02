@@ -16,48 +16,48 @@
 <div align="center">
   <img height=32 width=0 />
   <a href=https://www.typescriptlang.org>
-    <img src=./icons/ts.svg alt=typescript width=26 height=26 />
+    <img src=./icons/ts.svg alt=typescript width=32 height=32 />
   </a>
   &hairsp;
   <a href=https://react.dev>
-    <img src=./icons/react.svg alt=react width=26 height=26 />
+    <img src=./icons/react.svg alt=react width=32 height=32 />
   </a>
   &hairsp;
   <a href=https://tailwindcss.com>
-    <img src=./icons/tailwind.svg alt=tailwind width=26 height=26 />
+    <img src=./icons/tailwind.svg alt=tailwind width=32 height=32 />
   </a>
   &hairsp;
   <a href=https://nuxt.com>
-    <img src=./icons/nuxt.svg alt=nuxt width=26 height=26 />
+    <img src=./icons/nuxt.svg alt=nuxt width=32 height=32 />
   </a>
   &hairsp;
   <a href=https://nextjs.org>
-    <img src=./icons/next.svg alt=next width=26 height=26 />
+    <img src=./icons/next.svg alt=next width=32 height=32 />
   </a>
-<!-- </div> -->
+</div>
 
 <!-- Tech Stack Icons (Row 2) -->
-<!-- <div align=center> -->
+<div align=center>
   <img height=32 width=0 />
   &hairsp;
   <a href=https://www.mongodb.com>
-    <img src=./icons/mongo.svg alt=mongo width=26 height=26 />
+    <img src=./icons/mongo.svg alt=mongo width=32 height=32 />
   </a>
   &hairsp;
   <a href=https://sass-lang.com>
-    <img src=./icons/scss.svg alt=scss width=26 height=26 />
+    <img src=./icons/scss.svg alt=scss width=32 height=32 />
   </a>
   &hairsp;
   <a href=https://www.javascript.com>
-    <img src=./icons/js.svg alt=javascript width=26 height=26 />
+    <img src=./icons/js.svg alt=javascript width=32 height=32 />
   </a>
   &hairsp;
   <a href=https://angular.dev>
-    <img src=./icons/angular.svg alt=angular width=26 height=26 />
+    <img src=./icons/angular.svg alt=angular width=32 height=32 />
   </a>
   &hairsp;
   <a href=https://expressjs.com>
-    <img src=./icons/express.svg alt=express width=26 height=26 />
+    <img src=./icons/express.svg alt=express width=32 height=32 />
   </a>
 </div>
 
