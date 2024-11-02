@@ -24,7 +24,7 @@
   </a>
   &hairsp;
   <a href=https://tailwindcss.com>
-    <img src=./icons/tailwindcss.svg alt=tailwind width=26 height=26 />
+    <img src=./icons/tailwind.svg alt=tailwind width=26 height=26 />
   </a>
   &hairsp;
   <a href=https://nuxt.com>
