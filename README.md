@@ -34,10 +34,10 @@
   <a href=https://nextjs.org>
     <img src=./icons/next.svg alt=next width=26 height=26 />
   </a>
-</div>
+<!-- </div> -->
 
 <!-- Tech Stack Icons (Row 2) -->
-<div align=center>
+<!-- <div align=center> -->
   <img height=32 width=0 />
   &hairsp;
   <a href=https://www.mongodb.com>
