@@ -56,7 +56,7 @@
   </a>
   &hairsp;
   <a href=https://angular.dev >
-    <img src=./icons/angular.svg alt=angular width=26 height=26 />
+    <img src=https://github.com/noopntr/noopntr/blob/production/icons/angular.svg alt=angular width=26 height=26 />
   </a>
   &hairsp;
   <a href=https://expressjs.com >
